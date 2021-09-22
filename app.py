@@ -2,7 +2,6 @@
 from flask import Flask, render_template, request
 import pickle
 import numpy as np
-import pandas
 
 #Initialising the application
 app=Flask(__name__)
